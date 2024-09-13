@@ -1,0 +1,17 @@
+{
+  "name": "ultils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "moment": "^2.30.1",
+    "sharp": "^0.33.5"
+  }
+}
